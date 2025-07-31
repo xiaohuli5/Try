@@ -1,6 +1,5 @@
 # Try
 ''' CSharp
-
 using System;
 
 namespace HelloWorld
@@ -13,5 +12,4 @@ namespace HelloWorld
     }
   }
 }
-
-'''
+```
